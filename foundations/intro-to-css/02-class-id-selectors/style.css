@@ -1,1 +1,24 @@
+<<<<<<< HEAD
 /* Add CSS Styling */
+=======
+/* Add CSS Styling */
+.odd-number {
+    background-color: #ffc2cc;
+    font-family: verdana, DejaVu Sans, sans-serif;
+    
+}
+
+.adjust-font-width{
+    font-size: 24px;
+}
+
+#first-id {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: hsl(120, 73%, 75%);
+    font-weight: 700;
+}
+>>>>>>> 5eaadcb (Used an ID and Class selectors in the css file)
